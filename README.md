@@ -1,4 +1,7 @@
-# Welcome to your Expo app 👋
+# Welcome to my Workout App! 👋
+
+Video Demo for the app:
+https://drive.google.com/file/d/1rwzRQ0jmhrnzGLON67Ii8arohuwawemY/view?usp=sharing
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
