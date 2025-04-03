@@ -471,7 +471,7 @@ export default function HomeScreen() {
                   >
                     {flattenedSequence.length > 0
                       ? formatTime(remainingTime)
-                      : "--"}
+                      : "--:--"}
                   </ThemedText>
                 </View>
               )}
